@@ -1,0 +1,13 @@
+# Unicorn Startup Analysis Dashboard
+
+## Overview
+
+This Power BI dashboard provides a comprehensive analysis of unicorn startups worldwide. It leverages data from Excel, Power Query, and SQL to identify key performance indicators (KPIs) and presents them in a visually appealing and interactive format.
+
+## Features
+
+- **Data Sources:** The dashboard integrates data from Excel, Power Query, and SQL to ensure a robust and comprehensive dataset.
+  
+- **KPIs:** Key performance indicators have been carefully selected and calculated to provide valuable insights into the performance of unicorn startups.
+
+- **Visualizations:** The dashboard includes a variety of visualizations, such as charts, graphs, and tables, to make the data more accessible and understandable.
